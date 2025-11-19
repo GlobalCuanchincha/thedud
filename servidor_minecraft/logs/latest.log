@@ -1,0 +1,20 @@
+[23:44:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[23:44:39] [ServerMain/INFO]: Loaded 1461 recipes
+[23:44:39] [ServerMain/INFO]: Loaded 1574 advancements
+[23:44:39] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[23:44:39] [Server thread/INFO]: Loading properties
+[23:44:39] [Server thread/INFO]: Default game type: SURVIVAL
+[23:44:39] [Server thread/INFO]: Generating keypair
+[23:44:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:44:39] [Server thread/INFO]: Using epoll channel type
+[23:44:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:44:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:44:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:44:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:44:40] [Server thread/INFO]: Preparing level "world"
+[23:44:40] [Server thread/INFO]: Loading 0 persistent chunks...
+[23:44:40] [Server thread/INFO]: Preparing spawn area: 100%
+[23:44:40] [Server thread/INFO]: Time elapsed: 18 ms
+[23:44:40] [Server thread/INFO]: Done (0.391s)! For help, type "help"
+[23:44:44] [Server thread/INFO]: Vodruk9029[/127.251.39.101:41863] logged in with entity id 51 at (416.0321432703721, 65.0, -444.2994525658239)
+[23:44:44] [Server thread/INFO]: Vodruk9029 joined the game
